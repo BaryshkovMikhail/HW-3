@@ -28,7 +28,12 @@
 ---
 ### Решение 2
 
-[](https://github.com/BaryshkovMikhail/HW-3/blob/main/script_rsync.sh)
+[](https://github.com/BaryshkovMikhail/HW-3/blob/main/crontab)
+
+<img src = "img/img2.png" width = 100%>
+
+----
+
 
 ## Задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. На зачёт это не повлияет. Вы можете их выполнить, если хотите глубже разобраться в материале.
